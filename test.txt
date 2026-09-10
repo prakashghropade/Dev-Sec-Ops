@@ -1,1 +1,1 @@
-secrete="Prakash@123"
+secret="Prakash@123"
